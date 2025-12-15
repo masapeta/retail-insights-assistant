@@ -1,7 +1,0 @@
-
-VECTOR_DIM = 384
-
-DATA_TABLE = "sales_data"
-
-
-CHUNK_SIZE = 200
