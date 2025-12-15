@@ -1,0 +1,10 @@
+
+streamlit
+pandas
+duckdb
+sentence-transformers
+faiss-cpu
+langgraph
+groq
+python-dotenv
+tabulate

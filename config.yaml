@@ -1,0 +1,4 @@
+
+model: SQL Query Used
+vector_dim: 384
+chunk_size: 200
