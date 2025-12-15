@@ -120,5 +120,4 @@ This repository satisfies all assignment requirements:
 - Summarization + Q&A  
 - Scalable design  
 - UI  
-- Tests  
 - Architecture PDF  
