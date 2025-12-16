@@ -1,5 +1,5 @@
-data_extration_agent
-insight_generation_agent
-language_to_query_agent
-rag_retrieval_agent
-validation_agent
+data_extration_agent.py
+insight_generation_agent.py
+language_to_query_agent.py
+rag_retrieval_agent.py
+validation_agent.py
