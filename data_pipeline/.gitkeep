@@ -1,6 +1,6 @@
-chuking
-cleaning
-embeddings
-ingestion
-preprocessing
-vector_store
+chuking.py
+cleaning.py
+embeddings.py
+ingestion.py
+preprocessing.py
+vector_store.py
